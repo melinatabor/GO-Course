@@ -123,4 +123,4 @@ Para instalarlo:
 `go get -u github.com/gin-gonic/gin`
 
 # Certificado de Finalización
-![Certificado](/GO-Course/Certificado.jpg)
+![Certificado](Certificado.jpg)
