@@ -1,4 +1,6 @@
 # GO
+Curso de GO con actividades y ejercicios separados por temas.
+
 ## Caracteristicas:
 - Código abierto
 - Compilado
