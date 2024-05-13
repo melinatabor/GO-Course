@@ -121,3 +121,6 @@ La principal característica es el enrutamiento para crear rutas de manera simpl
 
 Para instalarlo:
 `go get -u github.com/gin-gonic/gin`
+
+# Certificado de Finalización
+![Certificado](/GO-Course/Certificado.jpg)
